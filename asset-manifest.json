@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4e29e4cf.css",
+    "main.js": "/static/js/main.6c99226e.js",
+    "static/media/project-puerto-vallarta.png": "/static/media/project-puerto-vallarta.a071cbb3ba1922fdc053.png",
+    "static/media/project-drinkify.png": "/static/media/project-drinkify.2e432fffbbf265a4e766.png",
+    "static/media/project-quick-bytes.png": "/static/media/project-quick-bytes.bbcfebd3e9b5924278d5.png",
+    "static/media/project-tranquil.png": "/static/media/project-tranquil.87a5bd3bdcb620b445ff.png",
+    "static/media/about-image.png": "/static/media/about-image.50721d569ef397bef66a.png",
+    "static/media/website-logo.svg": "/static/media/website-logo.0aff79c0d015f8a9b442847ba1b49002.svg",
+    "index.html": "/index.html",
+    "static/media/icon-arrow.svg": "/static/media/icon-arrow.858c0acefa23fbc634ccef1bda72bbbf.svg",
+    "main.4e29e4cf.css.map": "/static/css/main.4e29e4cf.css.map",
+    "main.6c99226e.js.map": "/static/js/main.6c99226e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e29e4cf.css",
+    "static/js/main.6c99226e.js"
+  ]
+}
